@@ -29,7 +29,7 @@
      </div>
      <div class="right">
          <ul>
-             <li><a href="">登录</a></li>
+             <li><router-link to="/login">登录</router-link></li>
              <li><a href="">|</a></li>
              <li><a href="">注册</a></li>
              <li><a href="">|</a></li>
